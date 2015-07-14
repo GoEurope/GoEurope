@@ -64,9 +64,11 @@ Open hours : 10:00 ~ 20:00 (평일)
 Open hours : 9:00 ~ 18:00
 입장료 : 경로별로 다름
 # Tour A
+- path : St. Vitus Cathedral, Old Royal Palace, exhibition The Story of Prague Castle, St. George's Basilica, Golden Lane with Daliborka Tower, Powder Tower, Rosenberg Palace
+- cost : 175 CZK
 # Tour B
-- 경로 :
-- 요금 : 250 CZK
+- path : St. Vitus Cathedral, Old Royal Palace, St. George's Basilica, Golden Lane with Daliborka Tower
+- cost : 125 CZK
 기타 : 보통 B 코스 많이들 선택한다고 함 (성 비투스 대성당, 황금소로, 정원)
 
 [관광] 성 비투스 대성당(프라하 성 내)
