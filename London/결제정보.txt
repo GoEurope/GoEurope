@@ -1,6 +1,7 @@
 ﻿런던패스 : http://www.londonpass.com/
 ㄴ 결제완료  ￡260.00  2015.06.27
 ㄴ 결제정보 이메일 이름 : London Pass Order Confirmation
+ㄴ 환불신청
 
 클래식 : http://www.bbc.co.uk/events/ej3zc8
 ㄴ 결제완료  ￡54.96  2015.07.01
